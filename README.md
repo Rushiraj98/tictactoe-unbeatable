@@ -1,4 +1,4 @@
 # tictactoe-unbeatable
 ## Unbeatable TicTacToe AI
-- [ ] App UI
+- [x] App UI -- using flutter
 - [ ] Check for AI algorithms and compare performance
